@@ -1,0 +1,66 @@
+
+.nav{
+	top: 5px;
+}
+
+.jumbotron {
+	padding-top: 6rem;
+	padding-bottom: 6rem;
+	margin-bottom: 0;
+	background-color: #fff;
+	background: url("images/stage.jpg") no-repeat;
+	background-size: cover;
+	background-position: center;
+	color: white;
+}
+.jumbotron p{
+	color: white;
+}
+
+.jumbotron p:last-child {
+	margin-bottom: 0;
+	color: white;
+}
+.jumbotron-heading {
+	font-weight: 300px;
+}
+
+
+.jumbotron .container {
+	max-width: 40rem;
+	
+	text-align: center;
+}
+
+.card-bg{
+	background-color: #22292E;
+	color: white;
+	border:none;
+}
+.bg-row{
+	background-color: #22292E;
+
+}
+.card{
+	min-height: 100%;
+}
+.feature1{
+	padding: 6rem;
+}
+.feature2{
+	padding: 6rem;
+	background-color: #22292E;
+}
+.feature2 .card{
+	background-color: #22292E;
+	border: none;
+	color: white;
+}
+.feature3{
+	padding: 6rem;
+	overflow: hidden;
+	
+}
+.feature4{
+	overflow: hidden;
+}
